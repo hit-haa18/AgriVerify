@@ -57,7 +57,7 @@ Check out this demo video!
 
 Some Improvements that needs to be done : 
 
-1. Make the page look more beautiful rightnow rightnow it just looks basic.
+1. Make the page look more beautiful rightnow it just looks basic.
 2. Implement push protocol properly
 3. Implement NFT feature
 4. Make it more seamless without any lag
