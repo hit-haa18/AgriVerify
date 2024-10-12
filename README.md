@@ -40,6 +40,14 @@ To run the project locally, follow these instructions:
 
 This command will launch the application in your default web browser.
 
+screenshots 
+
+The page before connecting metamask wallet (if it is not installed) : 
+![Home Page](https://raw.githubusercontent.com/hit-haa18/AgriVerify/master/agri1.png )
+
+The page after the metamask wallet is connected :
+![Home Page](https://raw.githubusercontent.com/hit-haa18/AgriVerify/master/agri2.png )
+
 Check out this demo video!
 
 [Watch the Video](https://drive.google.com/file/d/1K-MjnDr9MRuYSb4QMLHtHeJxqpyz7iyG/view?usp=drivesdk)
