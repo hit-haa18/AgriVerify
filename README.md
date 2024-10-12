@@ -40,6 +40,9 @@ To run the project locally, follow these instructions:
 
 This command will launch the application in your default web browser.
 
+Check out this demo video!
+
+[Watch the Video](https://drive.google.com/file/d/1K-MjnDr9MRuYSb4QMLHtHeJxqpyz7iyG/view?usp=drivesdk)
 
 
 
